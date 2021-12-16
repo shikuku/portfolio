@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.particles {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
